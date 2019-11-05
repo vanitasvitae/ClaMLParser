@@ -1,0 +1,7 @@
+.idea/
+.gradle/
+build/
+
+clamlfile.xml
+xmloutput.xml
+log.txt
